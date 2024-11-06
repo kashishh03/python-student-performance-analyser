@@ -1,0 +1,13 @@
+Student,Subject,Score,Date
+Alice,Math,85,2024-01-15
+Bob,Science,78,2024-01-20
+Alice,Science,88,2024-01-20
+Bob,Math,70,2024-01-15
+Charlie,Math,95,2024-01-15
+Charlie,Science,90,2024-01-20
+Alice,Math,82,2024-02-10
+Bob,Math,75,2024-02-10
+Charlie,Science,88,2024-02-10
+Alice,Science,92,2024-02-10
+Bob,Science,80,2024-02-10
+Charlie,Math,93,2024-02-10
